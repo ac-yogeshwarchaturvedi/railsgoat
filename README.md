@@ -57,6 +57,8 @@ To run Railsgoat with Docker you must first have [Docker](https://docs.docker.co
 
 For Mac Apple Silicon (ARM64) you must also have Rosetta install
 
+
+
 ```
 #~/code/railsgoat
 $ docker-compose build
